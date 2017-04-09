@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Team Win Recovery Project additions -->
+  <project name="leekindo/android_bootable_recovery-twrp" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />
+  <project name="leekindo/android_external_busybox" path="external/busybox" remote="github" />
+
+</manifest>
